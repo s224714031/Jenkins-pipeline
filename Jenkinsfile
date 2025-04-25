@@ -53,5 +53,6 @@ pipeline {
             steps{
                 echo "Completed......."
             }
+        }
     }
 }
